@@ -404,16 +404,3 @@ docker-learning/
 ## 🎯 Learning Goal
 
 Continue learning Docker and use it with web development and backend projects.
-
-## 🚀 Future Topics
-
-- Dockerfile
-- Docker Compose
-- Docker Networking
-- Docker Volumes
-- Multi-container applications
-- Docker with Node.js
-- Docker with Django
-- Docker with MongoDB
-- Docker with MySQL
-- Docker Hub
